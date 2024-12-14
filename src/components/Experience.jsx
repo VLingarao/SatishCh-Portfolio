@@ -13,7 +13,7 @@ function Experience() {
           <div className="exp-banner-div">
             <div className="exp-content-div">
               <h1>Apex solution</h1>
-              <h3>Data Entry</h3>
+              <h3 style={{fontWeight:'500'}}>Data Entry</h3>
               <ul>
                 <li style={{fontWeight:'600'}}>
                 In-depth understanding of data entry workflows and processes, with proficiency in mastering tools and adapting to evolving requirements.
@@ -30,7 +30,7 @@ function Experience() {
           <div className="exp-banner-div">
             <div className="exp-content-div">
               <h1>Myntra</h1>
-              <h3>Designing</h3>
+              <h3 style={{fontWeight:'500'}}>Designing</h3>
               <ul>
                 <li style={{fontWeight:'600'}}>
                 During my one-year role as a designer, I successfully completed several projects that not only demonstrated my creativity and technical expertise but also strengthened my understanding of user-centered design, web development concepts, and responsive design practices.
