@@ -1,5 +1,6 @@
 .App {
     background: "white";
+    /* background: linear-gradient(0deg, rgba(47,34,195,1) 0%, rgba(226,237,237,0.35066526610644255) 100%); */
     background-size: cover;
     min-height: 98vh;
     min-width: 98vw;

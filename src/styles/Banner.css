@@ -42,7 +42,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    filter:blur(1.5px) brightness(80%);
+    /* filter:blur(1.5px) brightness(80%); */
     border-radius: 15px;
 }
 .screen-scend-pic-div-2{
@@ -50,7 +50,7 @@
     top: 50%;
     width: 75%;
     height: 250px;
-    box-shadow: 20px 20px 30px rgb(0, 0, 0);
+    box-shadow: 10px 10px 30px rgb(0, 0, 0);
     border-radius: 15px;
     z-index: 2;
     animation: slideLeft 2s ease forwards;

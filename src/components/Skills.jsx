@@ -1,11 +1,13 @@
-import Photoshop from '../assets/adobe-photoshop.png';
-import ill from '../assets/adobe-illustrator.png';
-import pre from '../assets/adobe-premiere-pro.png';
+import Photoshop from '../assets/skill-logo/ps.png';
+import ill from '../assets/skill-logo/ai.png';
+import pre from '../assets/skill-logo/pr.png';
+import capcut from '../assets/skill-logo/cap.png';
+import inshort from '../assets/skill-logo/in.png';
 
 import "../styles/Skills.css";
 
 function Skills() {
-  const skills = [Photoshop,ill,pre];
+  const skills = [Photoshop,ill,pre,capcut,inshort];
   return (
     <div className="div-skills animate__animated animate__bounce" name="skills">
       <div className="div-main-container">

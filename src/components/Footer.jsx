@@ -4,7 +4,7 @@ import "../styles/Footer.css"
 function Footer(){
      return(
           <div className="Footer">
-               <p>Copyright © 2024 Satish Chelluri. All Right Reserved 💓</p>
+               <p>Copyright © 2024 Satish Chelluri. All Right Reserved</p>
           </div>
      )
 }

@@ -22,6 +22,7 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     margin: 0px 0px 0px 20px;
+
 }
 .nav-text-div>h1{
     color: #f8d330;
@@ -29,8 +30,21 @@
 .navbar-heading>h1>span{
     color: darkblue;
 }
-.nav-img-div{
-    display: none;
+.nav-img-div img{
+    /* display: none; */
+    background-color: #f8d330;
+    border-radius: 30px;
+    width: 60px;
+    height: 60px;
+    animation: rotation01 2s infinite linear;
+}
+@keyframes rotation01 {
+    from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(359deg);
+      }        
 }
 .nav-link{
     cursor: pointer;
@@ -51,8 +65,9 @@
         display: block;
     }
     .nav-img-div{
-        width: 90%;
+        width: 60px;
         height: 60px;
+        border-radius: 30px;
     }
     .nav-img-div>img{
         width: 100%;

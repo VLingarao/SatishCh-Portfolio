@@ -1,8 +1,8 @@
 import React from "react";
 import "../styles/Banner.css";
 import Typing from 'react-typing-effect';
-import BannerOne from "../assets/bannerpixletwo.jpg"
-
+import BannerOne from "../assets/bannerpixleone.jpg";
+import BannerTwo from '../assets/bannertwo.jpg';
 
 import resume from '../assets/satishresume.pdf';
 function Banner() {
@@ -55,7 +55,7 @@ function Banner() {
           </div>
         </div>
         <div className="screen-scend-pic-div-2">
-          <img src={"https://media.licdn.com/dms/image/D5612AQH1Ux_vhrk1iA/article-cover_image-shrink_720_1280/0/1687478101441?e=2147483647&v=beta&t=fhTeSneaDEwewGkgOOz_UOXSoyp0BkTqPj0GyPGWNVs"} />
+          <img src={BannerTwo} />
         </div>
       </div>
     </div>

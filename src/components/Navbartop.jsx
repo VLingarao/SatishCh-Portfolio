@@ -9,9 +9,9 @@ function Navbartop() {
         <div className='nav-img-div'>
           <img src={btn}/>
         </div>
-        <div className='nav-text-div'>
-          <h1>&lt; <span className='navbar-span'>&#47;</span> &gt;</h1>
-        </div>
+        {/* <div className='nav-text-div'>
+        <img src={btn}/>
+        </div> */}
         <div className='nav-types-div'>
           <Link to={"about"} smooth duration={100} className="nav-link">About</Link>
           <Link to={"skills"} smooth duration={200} className="nav-link">Skills</Link>
