@@ -15,10 +15,10 @@ function Experience() {
               <h1>Apex solution</h1>
               <h3>Data Entry</h3>
               <ul>
-                <li>
+                <li style={{fontWeight:'600'}}>
                 In-depth understanding of data entry workflows and processes, with proficiency in mastering tools and adapting to evolving requirements.
                 </li>
-                <li>
+                <li style={{fontWeight:'600'}}>
                 Gained valuable industry knowledge and expertise through active participation in diverse tasks, guided by experienced mentors to ensure accuracy and efficiency in every detail.
                 </li>
               </ul>
@@ -32,7 +32,7 @@ function Experience() {
               <h1>Myntra</h1>
               <h3>Designing</h3>
               <ul>
-                <li>
+                <li style={{fontWeight:'600'}}>
                 During my one-year role as a designer, I successfully completed several projects that not only demonstrated my creativity and technical expertise but also strengthened my understanding of user-centered design, web development concepts, and responsive design practices.
                 </li>
               </ul>
