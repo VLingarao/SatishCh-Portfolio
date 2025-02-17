@@ -9,12 +9,12 @@ import pro04 from '../assets/projects/ccokidsdayhyd.jpg';
 import pro05 from '../assets/projects/expertdasara.jpg';
 import pro06 from '../assets/projects/fashion.jpg';
 import pro07 from '../assets/projects/fusion.jpg';
-import pro08 from '../assets/projects/growth.jpg';
-import pro09 from '../assets/projects/invixadd.jpg';
-import pro10 from '../assets/projects/invixbottle.jpg';
-import pro11 from '../assets/projects/invixdesign.jpg';
-import pro12 from '../assets/projects/invixmensday.jpg';
-import pro13 from '../assets/projects/invixzero.jpg';
+import pro08 from '../assets/projects/megaDsc.jpg';
+import pro09 from '../assets/projects/republic.jpg'
+import pro10 from '../assets/projects/ring.jpg';
+import pro11 from '../assets/projects/invixsocial.jpg';
+import pro12 from '../assets/projects/triveni.jpg';
+import pro13 from '../assets/projects/indifresh.jpg';
 import pro14 from '../assets/projects/kovela.jpg';
 import pro15 from '../assets/projects/kovelatwo.jpg';
 import pro16 from '../assets/projects/mangobottle.jpg';
@@ -22,6 +22,10 @@ import pro17 from '../assets/projects/okinawa.jpg';
 import pro18 from '../assets/projects/redmirchibottle.jpg';
 import pro19 from '../assets/projects/thanksgiving.jpg';
 import pro20 from '../assets/projects/tomatobottile.jpg';
+import pro21 from '../assets/projects/biryanihut.jpg';
+import pro22 from '../assets/projects/sankranti.jpg';
+import pro23 from '../assets/projects/bhogi.jpg';
+import pro24 from '../assets/projects/kanuma.jpg';
 
 function Project() {
   const projects = [
@@ -45,6 +49,11 @@ function Project() {
     { img: pro18},
     { img: pro19},
     { img: pro20},
+    { img: pro21},
+    { img: pro22},
+    { img: pro23},
+    { img: pro24},
+
   ];
 
   return (
